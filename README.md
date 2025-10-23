@@ -1,3 +1,3 @@
 # formulario-media-aluno
-Alex Andrade Gabriel
+Alex Andrade Gabriel e
 Gustavo Dos Santos Oliveira
